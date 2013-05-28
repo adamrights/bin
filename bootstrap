@@ -34,12 +34,14 @@ brew install bash bash-completion z
 
 cd "$HOME"
 
-# wget ftp://ftp.gimp.org/pub/gimp/v2.8/osx/gimp-2.8.2-dmg-2.dmg
-# wget http://audacity.googlecode.com/files/audacity-macosx-ub-2.0.3.dmg
 wget http://downloads.sourceforge.net/jumpcut/Jumpcut_0.63.tgz
 wget http://xee.googlecode.com/files/Xee2.2.zip
 wget http://theunarchiver.googlecode.com/files/TheUnarchiver3.6.1.zip
 wget http://pqrs.org/macosx/keyremap4macbook/files/KeyRemap4MacBook-8.0.0.dmg
+wget http://bowtieapp.com/bowtie-1.5.zip
+
+# wget ftp://ftp.gimp.org/pub/gimp/v2.8/osx/gimp-2.8.2-dmg-2.dmg
+# wget http://audacity.googlecode.com/files/audacity-macosx-ub-2.0.3.dmg
 # wget http://darcs.net/binaries/macosx/darcs-2.5-OSX-10.6-i386.tar.gz
 # open http://www.libreoffice.org/download/?type=mac-x86
 # owl install grabc ppsei darcs-bin
